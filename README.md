@@ -1,10 +1,10 @@
 ############## PURPOSE ###############
 
-This repot contains the shared code for WQU MScFE Capstone Group 3630
+This repository contains the shared code for WQU MScFE Capstone Group 3630
 
 ########### REQUIREMENTS #############
 
-# Package requirements to run the ipython notebook
+### Package requirements to run the ipython notebook
 
 nolds
 pandas
