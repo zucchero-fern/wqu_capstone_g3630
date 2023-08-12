@@ -1,10 +1,10 @@
-############## PURPOSE ###############
+#### Purpose
 
-This repository contains the shared code for WQU MScFE Capstone Group 3630
+This repository contains the shared code for WQU MScFE Capstone Group 3630.
 
-########### REQUIREMENTS #############
+#### Requirements
 
-### Package requirements to run the ipython notebook
+Package requirements to run the ipython notebook:
 
 nolds
 pandas
@@ -15,7 +15,7 @@ yfinance
 matplotlib
 fractal markets
 
-##### ADDITIONAL NOTES ########
+#### Additional Notes
 
 Please note section 'An initial look at the Existing Python Package' contains the 'example' as it was found in the package's example folder in the repo, without modifications. 
 This section is yet to be developed by the group. 
