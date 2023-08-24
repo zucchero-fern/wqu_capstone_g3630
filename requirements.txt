@@ -6,4 +6,4 @@ hurst
 fbm==0.3.0
 yfinance==0.1.70
 matplotlib==3.5.1
-fractalmarkets==1.0.1
+# fractalmarkets==1.0.1
