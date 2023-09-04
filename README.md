@@ -17,5 +17,5 @@ hurst
 
 #### Additional Notes
 
-Latest version of the notebook: 'capstone_v7.ipynb'
+Latest version of the notebook: 'capstone_v8.ipynb'
  
